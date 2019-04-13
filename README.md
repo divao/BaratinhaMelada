@@ -3,6 +3,6 @@ Para mais informações, leia a documentação na pasta /\_documentacao.
 Para compilar o código, leia o readme da pasta /\_codigos.
 
 Desenvolvedores:
-Caio Ferreira
-Jackson Victor Teodoro
-Jhonattan Vieira dos Santos
+Caio Ferreira,
+Jackson Victor Teodoro,
+Jhonattan Vieira dos Santos.
